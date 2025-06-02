@@ -18,7 +18,7 @@ I specialize in creating scalable data structures for AI and SaaS projects, with
   - *(Western Governors University)*
 
 - 🚀 **Side Project:**  
-  - Scaled [LeadsAutopilot.com](https://leadsautopilot.com) to 60+ paying users
+  - Scaled [LeadsAutopilot.com](https://www.leadsautopilot.com/) to 60+ paying users
 
 - 📢 **AI & Marketing Thought Leader:**  
   - Sharing insights with 25,000+ readers on [LinkedIn](https://www.linkedin.com/in/theericotten/)
@@ -49,7 +49,7 @@ I specialize in creating scalable data structures for AI and SaaS projects, with
 ## 📬 Let’s Connect
 
 - [LinkedIn: theericotten](https://www.linkedin.com/in/theericotten/)
-- [LeadsAutopilot.com](https://leadsautopilot.com)
+- [LeadsAutopilot.com](https://www.leadsautopilot.com/)
 
 ---
 
