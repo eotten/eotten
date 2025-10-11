@@ -2,7 +2,7 @@
 
 **Building agentic AI solutions and social media web automations ⚡**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-theericotten-blue?logo=linkedin)](https://www.linkedin.com/in/theericotten/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ericotten-org-blue?logo=linkedin)](https://www.linkedin.com/in/ericotten-org/)
 
 ---
 
