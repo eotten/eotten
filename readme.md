@@ -11,18 +11,15 @@
 Hi, I’m Eric Otten — a builder, data architect, and AI enthusiast.  
 I specialize in creating scalable data structures for AI and SaaS projects, with a focus on agentic workflows and automation for social media and marketing.
 
-- 🎓 **3x College Graduate:**  
+- 🎓 **4x College Graduate:**  
   - BS Information Technology  
   - BS Finance  
-  - MS Data Analytics  
-  - *(Western Governors University)*
+  - MS Data Analytics
+  - MBA  
+  - *Alumn of Western Governors University*
 
 - 🚀 **Side Project:**  
-  - Scaled [LeadsAutopilot.com](https://www.leadsautopilot.com/) to 60+ paying users
-
-- 📢 **AI & Marketing Thought Leader:**  
-  - Sharing insights with 25,000+ readers on [LinkedIn](https://www.linkedin.com/in/theericotten/)
-
+  - Scaled [LeadsAutopilot.com](https://www.leadsautopilot.com/) to 100+ paying users
 ---
 
 ## 🛠️ What I Build
@@ -49,7 +46,7 @@ I specialize in creating scalable data structures for AI and SaaS projects, with
 ## 📬 Let’s Connect
 
 - [LinkedIn: theericotten](https://www.linkedin.com/in/theericotten/)
-- [LeadsAutopilot.com](https://www.leadsautopilot.com/)
+- [YouTube](https://www.youtube.com/@theericotten)
 
 ---
 
